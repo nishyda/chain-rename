@@ -22,7 +22,7 @@ pip install pyside6 cx_freeze
 ```
 Then you can either run the app by running:
 ```
-python3 main.py
+python3 rename.py
 ```
 Or create an executable by running:
 ```
