@@ -16,7 +16,6 @@ Requirements:
 ```
 sudo apt install python3 python3-pip
 ```
-(The app has been built with python 3.9, however it should work with slightly older versions.)
 As well as the python modules:
 ```
 pip install pyside6 cx_freeze
