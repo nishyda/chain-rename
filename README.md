@@ -13,11 +13,19 @@ To build the app, you will need the following requirements:
 
 ### Debian/Ubuntu-based distro
 Requirements:
-`sudo apt install python3 python3-pip`
+```
+sudo apt install python3 python3-pip
+```
 (The app has been built with python 3.9, however it should work with slightly older versions.)
 As well as the python modules:
-`pip install pyside6 cx_freeze`
+```
+pip install pyside6 cx_freeze
+```
 Then you can either run the app by running:
-`python3 main.py`
+```
+python3 main.py
+```
 Or create an executable by running:
-`python3 setup.py build`
+```
+python3 setup.py build
+```
